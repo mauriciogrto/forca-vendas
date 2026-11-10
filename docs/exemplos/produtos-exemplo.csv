@@ -1,0 +1,31 @@
+﻿Código;Descrição;Unidade;Grupo;Preço;Estoque
+A001;"Parafuso sextavado M6";CX;Fixação;18,50;53
+A002;"Parafuso sextavado M8";CX;Fixação;20,72;106
+A003;"Parafuso sextavado M10";CX;Fixação;22,94;159
+A004;"Parafuso sextavado M12";CX;Fixação;25,16;212
+A005;"Parafuso sextavado M16";CX;Fixação;27,38;265
+A006;"Parafuso sextavado M20";CX;Fixação;29,60;318
+A007;"Porca sextavada M6";CX;Fixação;12,90;371
+A008;"Porca sextavada M8";CX;Fixação;14,45;424
+A009;"Porca sextavada M10";CX;Fixação;16,00;477
+A010;"Porca sextavada M12";CX;Fixação;17,54;30
+A011;"Porca sextavada M16";CX;Fixação;19,09;83
+A012;"Porca sextavada M20";CX;Fixação;20,64;136
+A013;"Chapa de aço 2mm M6";KG;Matéria-prima;7,80;189
+A014;"Chapa de aço 2mm M8";KG;Matéria-prima;8,74;242
+A015;"Chapa de aço 2mm M10";KG;Matéria-prima;9,67;295
+A016;"Chapa de aço 2mm M12";KG;Matéria-prima;10,61;348
+A017;"Chapa de aço 2mm M16";KG;Matéria-prima;11,54;401
+A018;"Chapa de aço 2mm M20";KG;Matéria-prima;12,48;454
+A019;"Disco de corte M6";UN;Consumíveis;6,50;7
+A020;"Disco de corte M8";UN;Consumíveis;7,28;60
+A021;"Disco de corte M10";UN;Consumíveis;8,06;113
+A022;"Disco de corte M12";UN;Consumíveis;8,84;166
+A023;"Disco de corte M16";UN;Consumíveis;9,62;219
+A024;"Disco de corte M20";UN;Consumíveis;10,40;272
+A025;"Rolamento M6";UN;Mecânica;54,00;325
+A026;"Rolamento M8";UN;Mecânica;60,48;378
+A027;"Rolamento M10";UN;Mecânica;66,96;431
+A028;"Rolamento M12";UN;Mecânica;73,44;484
+A029;"Rolamento M16";UN;Mecânica;79,92;37
+A030;"Rolamento M20";UN;Mecânica;86,40;90
