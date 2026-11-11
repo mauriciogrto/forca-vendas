@@ -102,4 +102,4 @@ Os testes usam SQLite em memória (`phpunit.xml`), então não precisam do MySQL
 
 Em 10/11/2026, a suíte desta cópia concluiu 67 testes e 318 asserções. A execução usou PHP 8.5.11 e o nome da aplicação configurado como `Força de Vendas`.
 
-[Estudo de caso e arquitetura](https://grxsistemas.com.br/portfolio/forca-vendas)
+[Estudo de caso e arquitetura](https://grxsistemas.com.br/portifolio/forca-vendas)
